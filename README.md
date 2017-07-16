@@ -7,7 +7,7 @@ We want to log and count hits from a log bewteen now and x minutes ago
 - `composer`
 
 ## Setup
-- Run `git clone`
+- Run `git clone git@github.com:lfernandoavalos/dropb-logger.git`
 - Run tests `composer test`
 
 ## Usage
